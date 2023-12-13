@@ -54,33 +54,33 @@ h1, h2, h3, h4, p{
     height: 800px;
     border: 6px solid white;
     border-radius: 10px;
-    background-image: url("images/gift-cover.jpg");
+    background-image: url("gift-cover.jpg");
     background-size: cover;
     
 }
 
 #first-img:hover{
-    background-image: url("images/madjid01.jpg");
+    background-image: url("madjid01.jpg");
 }
 
 #second-img:hover{
-    background-image: url("images/madjid02.jpg");
+    background-image: url("madjid02.jpg");
 }
 
 #third-img:hover{
-    background-image: url("images/madjid03.jpg");
+    background-image: url("madjid03.jpg");
 }
 
 #fourth-img:hover{
-    background-image: url("images/madjid04.jpg");
+    background-image: url("madjid04.jpg");
 }
 
 #fifth-img:hover{
-    background-image: url("images/madjid05.jpg");
+    background-image: url("madjid05.jpg");
 }
 
 #sixth-img:hover{
-    background-image: url("images/madjid06.jpg");
+    background-image: url("madjid06.jpg");
 }
 #footer {
     font-style: italic;
